@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.alert-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+.action_button{
+    display: inline-flex;
+}
+th {
+    font-size: small;
+}
+
+.alert-info {
+    background-color: #EDF1F7;
+    border-color: #E7EDF6;
+}
+
+.btn-danger {
+    background-color: #FD6372;
+}
+.btn-danger:hover {
+    background-color: #FD6372;
+}
+
+#horizontal_menu {
+    background-color: #FFFFFF;
+}
+
+body {
+    background-color: #F8F8F8;
+}
+#logo {
+    margin-top: 30px;
+    margin-left: 30px;
+}

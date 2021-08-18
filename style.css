@@ -1,0 +1,39 @@
+#logo {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.menu_icons {
+    width: 18px;
+}
+
+li {
+    color:#7E8798;
+    font-family: 'Poppins';
+}
+
+body {
+    font-family: 'Poppins';
+    background-color: #F8F8F8;
+}
+
+.menu {
+    background-color: #ffffff;
+}
+
+.botonmenu {
+    display: flex;
+    background-color: #FD6372;
+    font-size: 15px;
+    width: 100%;
+    
+}
+
+.menu_principal {
+    width: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #212529;   
+}
